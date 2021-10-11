@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama">Nama</string>
+    <string name="muhammad_david_kurniawan">Muhammad David Kurniawan</string>
+    <string name="nim">NIM</string>
+    <string name="a11_2020_12480">A11.2020.12480</string>
+    <string name="hoby">Hobby</string>
+    <string name="menonton_pertandingan_sepak_bola">Menonton pertandingan Sepak Bola</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="saya_merupakan_mahasiswa_teknik_informatika_universitas_dian_nuswantoro_semarang">Saya merupakan Mahasiswa Semester 3 Program Studi Teknik Informatika Fakultas Ilmu Komputer Universitas Dian Nuswantoro Semarang</string>
+    <string name="todo">todo</string>
+</resources>
